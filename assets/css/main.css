@@ -1702,6 +1702,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2268,6 +2269,7 @@
 		list-style: disc;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
+		text-align: justify;
 	}
 
 		ul li {
